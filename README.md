@@ -181,6 +181,7 @@
   function closeError() {
     document.getElementById('errorBox').classList.add('hidden');
   }
+ </script>
 html, body {
   height: 100%;
   width: 100%;
